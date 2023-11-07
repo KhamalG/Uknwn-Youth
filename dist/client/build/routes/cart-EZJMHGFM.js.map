@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../app/routes/cart.jsx"],
+  "sourcesContent": ["export default function Cart () {\n    return (\n        <div>\n            <h1>Cart</h1>\n        </div>\n    )\n}"],
+  "mappings": "0GAGY,IAAAA,EAAA,OAHG,SAARC,GAAyB,CAC5B,SACI,OAAC,OACG,mBAAC,MAAG,gBAAI,EACZ,CAER",
+  "names": ["import_jsx_runtime", "Cart"]
+}

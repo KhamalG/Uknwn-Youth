@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../app/routes/about.jsx"],
+  "sourcesContent": ["export default function About () {\n    return (\n        <div>\n            <h1>About</h1>\n        </div>\n    )\n}"],
+  "mappings": "0GAGY,IAAAA,EAAA,OAHG,SAARC,GAA0B,CAC7B,SACI,OAAC,OACG,mBAAC,MAAG,iBAAK,EACb,CAER",
+  "names": ["import_jsx_runtime", "About"]
+}

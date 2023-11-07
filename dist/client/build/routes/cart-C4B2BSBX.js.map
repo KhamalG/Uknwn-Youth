@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../app/routes/cart.jsx"],
+  "sourcesContent": ["export default function Cart () {\n    return (\n        <div>\n            <h1>Cart</h1>\n        </div>\n    )\n}"],
+  "mappings": ";;;;;;;;AAGY;AAHG,SAAR,OAAyB;AAC5B,SACI,mDAAC,SACG,6DAAC,QAAG,oBAAJ;AAAA;AAAA;AAAA;AAAA,SAAQ,KADZ;AAAA;AAAA;AAAA;AAAA,SAEA;AAER;",
+  "names": []
+}
